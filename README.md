@@ -12,6 +12,7 @@
   <li>Playing basketball</li>
   <li>Watching NBA highlights</li>
   <li>Gaming with friends</li>
+  <li>Computing Class</li>
 </ul>
 
 <h3>My Idol</h3>
