@@ -1,16 +1,24 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Hi Welcome guys</h1>
+    <p>Hi my name is Ryu, my idol is Stephen Curry and I play Basketball.</p>
 
-<!--
-**liuqi67676767/liuqi67676767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <h2>About Me</h2>
+    <p>I enjoy playing basketball, learning new things, and watching NBA games.</p>
 
-Here are some ideas to get you started:
+    <h3>My Hobbies</h3>
+    <ul>
+      <li>Playing basketball</li>
+      <li>Watching NBA highlights</li>
+      <li>Gaming with friends</li>
+    </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h3>My Idol</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Stephen_Curry_dribbling_2019.jpg" alt="Stephen Curry playing basketball" width="300">
+
+    <p>Learn more about my idol here:</p>
+    <a href="https://en.wikipedia.org/wiki/Stephen_Curry" target="_blank">Stephen Curry Wikipedia Page</a>
+  </body>
+</html>
+
