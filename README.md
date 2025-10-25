@@ -12,7 +12,7 @@
   <li>Playing basketball</li>
   <li>Watching NBA highlights</li>
   <li>Gaming with friends</li>
-  <li>Computing Class</li>
+  <li>Go to pakuwon mall</li>
 </ul>
 
 <h3>My Idol</h3>
