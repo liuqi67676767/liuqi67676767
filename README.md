@@ -1,5 +1,5 @@
 <h1>Hi Welcome guys</h1>
-<h1 style="color:yellow; background-color:blue;">Hi Welcome guys</h1>
+
 
 
 <p>Hi my name is Ryu, my idol is Stephen Curry and I play Basketball.</p>
