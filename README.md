@@ -15,7 +15,7 @@
 <h3>My Idol</h3>
 <img src="https://andscape.com/wp-content/uploads/2023/03/GettyImages-1243633887-e1678736412944.jpg?w=800" alt="Steph my Goat smiling" width="300">
 
-<p>Learn more about my idol here:</p>
+<p>Learn more about Chef Curry here:</p>
 <a href="https://en.wikipedia.org/wiki/Stephen_Curry" target="_blank">Stephen Curry Wikipedia Page</a>
 <a href="https://www.usab.com/players/stephen-curry" target="_blank">Stephen Curry USA Basketball Page</a>
 
